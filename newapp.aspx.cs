@@ -13,5 +13,10 @@ namespace HDFC_LOAN_APPLICATION
         {
 
         }
+
+        protected void TextBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
